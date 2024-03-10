@@ -11,7 +11,7 @@ On this GitHub Profile, you will find some of my projects which i made so far. I
 <br><br>
 you can follow me on my instagram page(self promotion) 😅 <a href = "https://www.instagram.com/himank_singh9">himank_singh9</a> and also my <a href = "https://www.linkedin.com/in/himank-singh-65b411249/">linkedin</a>😁.
 <br><br>
-Link to my <a href = 'https://resume.io/r/AcrFZkCzB'>resume</a>
+Link to my [resume](https://devhimankportfolio.netlify.app/resume.pdf)
 <br><br>
 <div id="badges" align="center">
 <a href="https://www.linkedin.com/in/himank-singh-65b411249/">
