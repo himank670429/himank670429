@@ -9,12 +9,12 @@ I have been following my passion of being a programmer since I was 17 years old 
 <br><br>
 On this GitHub Profile, you will find some of my projects which i made so far. I Hope you will find something usefull here 🤝
 <br><br>
-you can follow me on my instagram page(self promotion) 😅 <a href = "https://www.instagram.com/himank_singh9">himank_singh9</a> and also my <a href = "https://www.linkedin.com/in/himank-singh-65b411249/">linkedin</a>😁.
+you can follow me on my instagram page(self promotion) 😅 <a href = "https://www.instagram.com/himank_singh9">himank_singh9</a> and also my <a href = "https://www.linkedin.com/in/himank-singh-01a69430a/">linkedin</a>😁.
 <br><br>
-Link to my [resume](https://devhimankportfolio.netlify.app/resume.pdf)
+Link to my <a href="https://dev-himank-portfolio.onrender.com/resume.pdf">resume</a>
 <br><br>
 <div id="badges" align="center">
-<a href="https://www.linkedin.com/in/himank-singh-65b411249/">
+<a href="https://www.linkedin.com/in/himank-singh-01a69430a/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://www.instagram.com/himank_singh9">
